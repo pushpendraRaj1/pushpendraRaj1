@@ -1,6 +1,6 @@
 - 👋 Hi, I’m PushpendraRaj
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning mern
+- 👀 I’m interested in Software development
+- 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on fronted project
 - 📫 How to reach me send me mail
 
